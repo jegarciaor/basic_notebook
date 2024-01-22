@@ -1,3 +1,4 @@
+# Librerías propias.
 from basic_text_editor.python.EditorTexto import EditorTexto
 
 if __name__ == '__main__':
